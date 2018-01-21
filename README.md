@@ -1,15 +1,17 @@
 # Iris_classification-R
 
 The Iris classification dataset contains observations of a number of iris flowers. The details of their sepal width, sepal length, petal width and petal length are observed and noted. They have also been classified into 3 classes namely :
+
 1.Iris-setosa
 
 2.Iris-virginica
 
 3.Iris-versicolor
 
-A portion of this data set is used to train a model to classify an Iris flower to its respective class. The other portion of this dataset is used to test the model.
+A portion of this dataset is used to train a model to classify an Iris flower to its respective class. The other portion of this dataset is used to test the model.
 
 Two different approaches are used to train the model namely:
+
 1.K-nearest neighbhor
 
 2.Deep learning (Keras)
