@@ -14,7 +14,7 @@ Two different approaches are used to train the model namely:
 
 1.K-nearest neighbhor
 
-2.Deep learning (Keras)
+2.Artificial Neural networks (Keras)
 
 Further the concept of One hot encoding is used so that the deep learning (Keras) model can accurately classify the Iris flowers. The working of this concept is explained in the code present in my "Iris_classification-Python" repository. 
 
